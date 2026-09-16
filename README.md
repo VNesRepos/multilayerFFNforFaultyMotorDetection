@@ -1,0 +1,2 @@
+# multilayerFFNforFaultyMotorDetection
+Feedforward neural network and backpropagation engine built from scratch in Java to check motor failures using Fast Fourier Transform (FFT) data of various granularity
